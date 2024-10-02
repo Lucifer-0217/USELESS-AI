@@ -1,7 +1,7 @@
 ```markdown
 Useless Version 1 - The Ultimate Desktop Voice Assistant
 
-![Useless Version 1](https://example.com/logo.png)  
+![Useless Version 1]  
 Useful Life Enhancing Software System (Useless)
 
 Overview
