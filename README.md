@@ -52,7 +52,7 @@ Run the following command to install the necessary dependencies:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 Alternatively, you can manually install the modules:
 
